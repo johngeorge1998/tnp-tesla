@@ -1,0 +1,150 @@
+{
+  "carModels": [
+    {
+      "modalName": "ModelS",
+      "modalImage": "/images/ModelS_65.webp",
+      "price": "$68,490",
+      "discount": "$6,500",
+      "specifications": {
+        "range": "359 mi",
+        "initial": "1.99 s",
+        "speed": "200 mph",
+        "power": "1,020 hp",
+        "bodytype":"Sedan",
+        "doors":"4",
+        "seats":"5",
+        "drive":"AWD",
+        "battery":"100 kWh",
+        "voltage":"400 V"
+      },
+      "modelVideo": "/images/videoS.mp4",
+      "modelVideoDesc": "Interior of future",
+      "specificDesc": {
+        "desc1": "Instantly connect with multi-device Bluetooth, or fast charge devices with wireless and 36-watt USB-C charging.",
+        "img1": "/images/ModelS_87.webp",
+        "desc2": "A 22-speaker, 960-watt audio system with Active Road Noise Reduction offers immersive listening and studio-grade sound quality.",
+        "img2": "/images/ModelS_91.webp",
+        "desc3": "With front and rear trunks and fold-flat seats you can fit your bike without taking the wheel off—and your luggage too.",
+        "img3": "/images/ModelS_86.webp"
+      },
+      "chase": {
+        "chaseImage": "/images/ModelS_97.webp",
+        "desc": "Model S platforms unite powertrain and battery technologies for unrivaled performance, range and efficiency. New module and pack thermal architecture allows faster charging and gives you more power and endurance in all conditions.",
+        "models": {
+          "modelNormal": {
+            "name": "Model S",
+            "desc": "Dual Motor All-Wheel Drive unlocks more range than any other vehicle in our current lineup, with insane power and maximum control.",
+            "range": "420 mi",
+            "speed": "3.1 s",
+            "power": "670 HP"
+          },
+          "modelPaid": {
+            "name": "Model S Paid",
+            "desc": "Maintain 1,000+ horsepower all the way to 200 mph with Tri-Motor All-Wheel Drive, featuring torque vectoring and three independent carbon-sleeved rotors.",
+            "range": "359 mi",
+            "speed": "1.99 s",
+            "power": "1020 HP"
+          }
+        }
+      }
+    },
+    {
+      "modalName": "Cybertruck",
+      "modalImage": "/images/Cybertruck_74.webp",
+      "price": "$68,490",
+      "discount": "$6,500",
+      "specifications": {
+        "range": "659 mi",
+        "initial": "0.99 s",
+        "speed": "280 mph",
+        "power": "1,620 hp",
+        "bodytype":"Pickup Truck",
+        "doors":"4",
+        "seats":"7",
+        "drive":"AWD",
+        "battery":"300 kWh",
+        "voltage":"1000 V"
+      },
+      "modelVideo": "/images/videoCyber.mp4",
+      "modelVideoDesc": "Adventure awaits",
+      "specificDesc": {
+        "desc1": "Instantly connect with multi-device Bluetooth, or fast charge devices with wireless and 36-watt USB-C charging.",
+        "img1": "/images/Cybertruck_61.webp",
+        "desc2": "A 22-speaker, 960-watt audio system with Active Road Noise Reduction offers immersive listening and studio-grade sound quality.",
+        "img2": "/images/Cybertruck_94.webp",
+        "desc3": "With front and rear trunks and fold-flat seats you can fit your bike without taking the wheel off—and your luggage too.",
+        "img3": "/images/Cybertruck_66.webp"
+      },
+      "chase": {
+        "chaseImage": "/images/Cybertruck_89.webp",
+        "desc": "Cybertruck platforms unite powertrain and battery technologies for unrivaled performance, range and efficiency. New module and pack thermal architecture allows faster charging and gives you more power and endurance in all conditions.",
+        "models": {
+          "modelNormal": {
+            "name": "Cyber",
+            "desc": "Dual Motor All-Wheel Drive unlocks more range than any other vehicle in our current lineup, with insane power and maximum control.",
+            "range": "520 mi",
+            "speed": "4.1 s",
+            "power": "970 HP"
+          },
+          "modelPaid": {
+            "name": "Cybertruck Paid",
+            "desc": "Maintain 1,000+ horsepower all the way to 200 mph with Tri-Motor All-Wheel Drive, featuring torque vectoring and three independent carbon-sleeved rotors.",
+            "range": "659 mi",
+            "speed": "2.99 s",
+            "power": "2020 HP"
+          }
+        }
+      }
+    },
+    {
+      "modalName": "Model X",
+      "modalImage": "/images/ModelX_62.webp",
+      "price": "$78,490",
+      "discount": "$6,500",
+      "specifications": {
+        "range": "529 mi",
+        "initial": "2.99 s",
+        "speed": "210 mph",
+        "power": "920 hp",
+        "bodytype":"SUV",
+        "doors":"4",
+        "seats":"6",
+        "drive":"AWD",
+        "battery":"420 kWh",
+        "voltage":"900 V"
+      },
+      "modelVideo": "/images/videoX.mp4",
+      "modelVideoDesc": "Perfect SUV",
+      "specificDesc": {
+        "desc1": "Instantly connect with multi-device Bluetooth, or fast charge devices with wireless and 36-watt USB-C charging.",
+        "img1": "/images/ModelX_70.webp",
+        "desc2": "A 22-speaker, 960-watt audio system with Active Road Noise Reduction offers immersive listening and studio-grade sound quality.",
+        "img2": "/images/ModelX_69.webp",
+        "desc3": "With front and rear trunks and fold-flat seats you can fit your bike without taking the wheel off—and your luggage too.",
+        "img3": "/images/ModelX_92.webp"
+      },
+      "chase": {
+        "chaseImage": "/images/ModelX_78.webp",
+        "desc": "Model X platforms unite powertrain and battery technologies for unrivaled performance, range and efficiency. New module and pack thermal architecture allows faster charging and gives you more power and endurance in all conditions.",
+        "models": {
+          "modelNormal": {
+            "name": "Model X",
+            "desc": "Dual Motor All-Wheel Drive unlocks more range than any other vehicle in our current lineup, with insane power and maximum control.",
+            "range": "320 mi",
+            "speed": "3.1 s",
+            "power": "670 HP"
+          },
+          "modelPaid": {
+            "name": "Model X Paid",
+            "desc": "Maintain 1,000+ horsepower all the way to 200 mph with Tri-Motor All-Wheel Drive, featuring torque vectoring and three independent carbon-sleeved rotors.",
+            "range": "859 mi",
+            "speed": "0.99 s",
+            "power": "1720 HP"
+          }
+        }
+      }
+    }
+    
+    
+  ]
+}
