@@ -25,7 +25,6 @@ const Home = () => {
   }, []);
 
   const scrollToFeatureSection = () => {
- 
     if (featureSectionRef.current) {
       featureSectionRef.current.scrollIntoView({ behavior: "smooth" });
     }
@@ -33,7 +32,7 @@ const Home = () => {
 
   return (
     <>
-      <Navbar state={state} setState={setState} />
+      <Navbar setState={setState} />
 
       <HeroSection
         state={state}
