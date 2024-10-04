@@ -1,8 +1,8 @@
 const LogoBlack = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    height="75"
-    width="100"
+     height="80"
+      width="130"
     viewBox="-41.8008 -9.08425 362.2736 54.5055"
   >
     <path

@@ -74,7 +74,7 @@ const Navbar = ({ setState }) => {
               fw={600}
               c={scrolling ? "black" : "#fff"}
               style={{ cursor: "pointer" }}
-              onClick={() =>
+              onMouseEnter={() =>
                 setState((prevState) => ({
                   ...prevState,
                   opened: true,

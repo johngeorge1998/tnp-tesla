@@ -59,7 +59,7 @@ const HeroSection = ({ state, setState, scrollToFeatureSection }) => {
               radius="xl"
               color="white"
               width={isMobile ? 150 : 200}
-              onClick={() =>
+              onMouseEnter={() =>
                 setState((prevState) => ({
                   ...prevState,
 
